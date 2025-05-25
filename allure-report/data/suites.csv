@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8645","ecommerce application Page Object Manager","","Mon Apr 14 17:09:09 IST 2025","passed","Mon Apr 14 17:09:18 IST 2025","","pageobjectests\ShoppingPageObjectManager.spec.js","",""
+"","40842","@framework ecommerce application create order framework","","Mon Apr 14 17:09:09 IST 2025","broken","Mon Apr 14 17:09:50 IST 2025","","pageobjectests\Shoppingtest.spec.js","",""

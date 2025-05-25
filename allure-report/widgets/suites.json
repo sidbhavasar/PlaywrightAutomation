@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"ea6d67cd0873e8cae5c258bce82d590f","name":"pageobjectests\\Shoppingtest.spec.js","statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1}},{"uid":"4c370d92cde91f25471965e3bf893261","name":"pageobjectests\\ShoppingPageObjectManager.spec.js","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
