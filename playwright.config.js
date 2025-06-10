@@ -13,7 +13,18 @@ export default defineConfig({
   expect: {
     timeout: 5000
   },
-
+  projects: [
+      {
+        name: 'chromium',
+        use: {
+          browserName: 'chromium',
+          headless: false,
+          launchOptions: {
+              executablePath: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+          }
+        }
+      }
+    ],
   use: {
 
     browserName: "chromium",
